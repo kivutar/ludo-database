@@ -9,24 +9,6 @@
 		<author>alexian, BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)">
-		<description>[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)</description>
-		<release name="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)" region="EUR"/>
-		<release name="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)" region="JPN"/>
-		<release name="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)" region="USA"/>
-		<rom name="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1).gb" size="256" crc="59c8598e" md5="32fbbd84168d3482956eb3c5051637f5" sha1="4ed31ec6b0b175bb109c0eb5fd3d193da823339f" status="verified"/>
-	</game>
-	<game name="[BIOS] Nintendo Game Boy Boot ROM (Japan) (En)" cloneof="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)">
-		<description>[BIOS] Nintendo Game Boy Boot ROM (Japan) (En)</description>
-		<rom name="[BIOS] Nintendo Game Boy Boot ROM (Japan) (En).gb" size="256" crc="c2f5cc97" md5="a8f84a0ac44da5d3f0ee19f9cea80a8c" sha1="8bd501e31921e9601788316dbd3ce9833a97bcbc" status="verified"/>
-	</game>
-	<game name="[BIOS] Nintendo Game Boy Pocket Boot ROM (World)">
-		<description>[BIOS] Nintendo Game Boy Pocket Boot ROM (World)</description>
-		<release name="[BIOS] Nintendo Game Boy Pocket Boot ROM (World)" region="EUR"/>
-		<release name="[BIOS] Nintendo Game Boy Pocket Boot ROM (World)" region="JPN"/>
-		<release name="[BIOS] Nintendo Game Boy Pocket Boot ROM (World)" region="USA"/>
-		<rom name="[BIOS] Nintendo Game Boy Pocket Boot ROM (World).gb" size="256" crc="e6920754" md5="71a378e71ff30b2d8a1f02bf5c7896aa" sha1="4e68f9da03c310e84c523654b9026e51f26ce7f0" status="verified"/>
-	</game>
 	<game name="3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)">
 		<description>3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)</description>
 		<release name="3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)" region="JPN"/>

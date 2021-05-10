@@ -11,16 +11,6 @@
 		<author>alexian, BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Sharp Famicom Titler (Japan)">
-		<description>[BIOS] Sharp Famicom Titler (Japan)</description>
-		<release name="[BIOS] Sharp Famicom Titler (Japan)" region="JPN"/>
-		<rom name="[BIOS] Sharp Famicom Titler (Japan).nes" size="524288" crc="696712f9" md5="38c3308ef803392218c6ba2f3bd91c97" sha1="1b9475f569ea9943122676ce65165dc82d11ef38"/>
-	</game>
-	<game name="[BIOS] Sharp My Computer TV C1 (Japan)">
-		<description>[BIOS] Sharp My Computer TV C1 (Japan)</description>
-		<release name="[BIOS] Sharp My Computer TV C1 (Japan)" region="JPN"/>
-		<rom name="[BIOS] Sharp My Computer TV C1 (Japan).nes" size="16384" crc="752ba39a" md5="2165d3042c9caad204b941845e7eb0f2" sha1="0735ecfafd151cb7bb4c09748c0eb5de54321e93"/>
-	</game>
 	<game name="'89 Dennou Kyuusei Uranai (Japan)">
 		<description>'89 Dennou Kyuusei Uranai (Japan)</description>
 		<release name="'89 Dennou Kyuusei Uranai (Japan)" region="JPN"/>

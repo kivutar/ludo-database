@@ -9,68 +9,6 @@
 		<author>alexian</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Alex Kidd in Miracle World (USA, Europe)">
-		<description>[BIOS] Alex Kidd in Miracle World (USA, Europe)</description>
-		<release name="[BIOS] Alex Kidd in Miracle World (USA, Europe)" region="EUR"/>
-		<release name="[BIOS] Alex Kidd in Miracle World (USA, Europe)" region="USA"/>
-		<rom name="[BIOS] Alex Kidd in Miracle World (USA, Europe).sms" size="131072" crc="cf4a09ea" md5="e8b26871629b938887757a64798df6dc" sha1="3af7b66248d34eb26da40c92bf2fa4c73a46a051" status="verified"/>
-	</game>
-	<game name="[BIOS] Alex Kidd in Miracle World (Korea) (Unl)" cloneof="[BIOS] Alex Kidd in Miracle World (USA, Europe)">
-		<description>[BIOS] Alex Kidd in Miracle World (Korea) (Unl)</description>
-		<release name="[BIOS] Alex Kidd in Miracle World (Korea) (Unl)" region="KOR"/>
-		<rom name="[BIOS] Alex Kidd in Miracle World (Korea) (Unl).sms" size="131072" crc="9c5bad91" md5="e49e63328c78fe3d24ae32bf903583e0" sha1="2feafd8f1c40fdf1bd5668f8c5c02e5560945b17"/>
-	</game>
-	<game name="[BIOS] Hang On (USA, Europe) (v3.4)">
-		<description>[BIOS] Hang On (USA, Europe) (v3.4)</description>
-		<release name="[BIOS] Hang On (USA, Europe) (v3.4)" region="EUR"/>
-		<release name="[BIOS] Hang On (USA, Europe) (v3.4)" region="USA"/>
-		<rom name="[BIOS] Hang On (USA, Europe) (v3.4).sms" size="131072" crc="8edf7ac6" md5="5cd8f62cd8786af0226e6d2248279338" sha1="51fd6d7990f62cd9d18c9ecfc62ed7936169107e" status="verified"/>
-	</game>
-	<game name="[BIOS] Hang On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4)">
-		<description>[BIOS] Hang On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4)</description>
-		<release name="[BIOS] Hang On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4)" region="BRA"/>
-		<release name="[BIOS] Hang On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4)" region="EUR"/>
-		<release name="[BIOS] Hang On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4)" region="USA"/>
-		<rom name="[BIOS] Hang On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4).sms" size="131072" crc="91e93385" md5="02cbb2e348945c9ac41e37502a58ca76" sha1="9e179392cd416af14024d8f31c981d9ee9a64517" status="verified"/>
-	</game>
-	<game name="[BIOS] Missile Defense 3-D (USA, Europe) (v4.4)">
-		<description>[BIOS] Missile Defense 3-D (USA, Europe) (v4.4)</description>
-		<release name="[BIOS] Missile Defense 3-D (USA, Europe) (v4.4)" region="EUR"/>
-		<release name="[BIOS] Missile Defense 3-D (USA, Europe) (v4.4)" region="USA"/>
-		<rom name="[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).sms" size="131072" crc="e79bb689" md5="08b81aa6be18b92daef1b875deecf824" sha1="aa92ae576ca670b00855e278378d89e9f85e0351" status="verified"/>
-	</game>
-	<game name="[BIOS] Sega Master System (Japan) (v2.1)">
-		<description>[BIOS] Sega Master System (Japan) (v2.1)</description>
-		<release name="[BIOS] Sega Master System (Japan) (v2.1)" region="JPN"/>
-		<rom name="[BIOS] Sega Master System (Japan) (v2.1).sms" size="8192" crc="48d44a13" md5="24a519c53f67b00640d0048ef7089105" sha1="a8c1b39a2e41137835eda6a5de6d46dd9fadbaf2" status="verified"/>
-	</game>
-	<game name="[BIOS] Sega Master System (USA) (M404) (Proto)" cloneof="[BIOS] Sega Master System (Japan) (v2.1)">
-		<description>[BIOS] Sega Master System (USA) (M404) (Proto)</description>
-		<rom name="[BIOS] Sega Master System (USA) (M404) (Proto).sms" size="8192" crc="1a15dfcc" md5="3153447d155fb8bfc66a4d1c41e399b9" sha1="4a06c8e66261611dce0305217c42138b71331701"/>
-	</game>
-	<game name="[BIOS] Sega Master System (USA) (v1.0) (Proto)" cloneof="[BIOS] Sega Master System (Japan) (v2.1)">
-		<description>[BIOS] Sega Master System (USA) (v1.0) (Proto)</description>
-		<rom name="[BIOS] Sega Master System (USA) (v1.0) (Proto).sms" size="8192" crc="72bec693" md5="626b3453613e43d5a47908a8944ba583" sha1="29091ff60ef4c22b1ee17aa21e0e75bac6b36474"/>
-	</game>
-	<game name="[BIOS] Sega Master System (USA, Europe) (v1.3)" cloneof="[BIOS] Sega Master System (Japan) (v2.1)">
-		<description>[BIOS] Sega Master System (USA, Europe) (v1.3)</description>
-		<release name="[BIOS] Sega Master System (USA, Europe) (v1.3)" region="USA"/>
-		<rom name="[BIOS] Sega Master System (USA, Europe) (v1.3).sms" size="8192" crc="0072ed54" md5="840481177270d5642a14ca71ee72844c" sha1="c315672807d8ddb8d91443729405c766dd95cae7" status="verified"/>
-	</game>
-	<game name="[BIOS] Sega Master System (USA) (Store Display Unit)" cloneof="[BIOS] Sega Master System (Japan) (v2.1)">
-		<description>[BIOS] Sega Master System (USA) (Store Display Unit)</description>
-		<rom name="[BIOS] Sega Master System (USA) (Store Display Unit).sms" size="16384" crc="ee2c29ba" md5="b264bef9bda264ffe83afcebac21b81f" sha1="fc465122134d95363112eb51b9ab71db3576cefd" status="verified"/>
-	</game>
-	<game name="[BIOS] Sega Master System (Europe) (v2.0)" cloneof="[BIOS] Sega Master System (Japan) (v2.1)">
-		<description>[BIOS] Sega Master System (Europe) (v2.0)</description>
-		<release name="[BIOS] Sega Master System (Europe) (v2.0)" region="EUR"/>
-		<rom name="[BIOS] Sega Master System (Europe) (v2.0).sms" size="8192" crc="b3d854f8" md5="bdb34f2c471e5d0c358eeec621f9d029" sha1="fc7eb9141f38c92bf98d9134816f64b45e811112"/>
-	</game>
-	<game name="[BIOS] Sonic The Hedgehog (Europe)">
-		<description>[BIOS] Sonic The Hedgehog (Europe)</description>
-		<release name="[BIOS] Sonic The Hedgehog (Europe)" region="EUR"/>
-		<rom name="[BIOS] Sonic The Hedgehog (Europe).sms" size="262144" crc="81c3476b" md5="4187d96beaf36385e681a3cf3bd1663d" sha1="6aca0e3dffe461ba1cb11a86cd4caf5b97e1b8df" status="verified"/>
-	</game>
 	<game name="20 em 1 (Brazil)">
 		<description>20 em 1 (Brazil)</description>
 		<release name="20 em 1 (Brazil)" region="BRA"/>

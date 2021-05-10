@@ -9,17 +9,6 @@
 		<author>alexian, BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En)">
-		<description>[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En)</description>
-		<rom name="[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En).gbc" size="2304" crc="e8ef5318" md5="7c773f3c0b01cb73bca8e83227287b7f" sha1="df5a0d2d49de38fbd31cc2aab8e62c8550e655c0" status="verified"/>
-	</game>
-	<game name="[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1)" cloneof="[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En)">
-		<description>[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1)</description>
-		<release name="[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1)" region="EUR"/>
-		<release name="[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1)" region="JPN"/>
-		<release name="[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1)" region="USA"/>
-		<rom name="[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1).gbc" size="2304" crc="41884e46" md5="dbfce9db9deaa2567f6a84fde55f9680" sha1="1293d68bf9643bc4f36954c1e80e38f39864528d" status="verified"/>
-	</game>
 	<game name="007 - The World Is Not Enough (USA, Europe)">
 		<description>007 - The World Is Not Enough (USA, Europe)</description>
 		<release name="007 - The World Is Not Enough (USA, Europe)" region="EUR"/>

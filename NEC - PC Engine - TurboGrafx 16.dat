@@ -9,46 +9,6 @@
 		<author>alexian</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Games Express CD Card (Japan) (Green Version)">
-		<description>[BIOS] Games Express CD Card (Japan) (Green Version)</description>
-		<release name="[BIOS] Games Express CD Card (Japan) (Green Version)" region="JPN"/>
-		<rom name="[BIOS] Games Express CD Card (Japan) (Green Version).pce" size="16384" crc="20e0a364" md5="cf1e3734188629a7c5a946c3e1a41cf0" sha1="2deab749901d41072fb8bd7380c61a161aaf8ec0"/>
-	</game>
-	<game name="[BIOS] Games Express CD Card (Japan) (Blue Version)" cloneof="[BIOS] Games Express CD Card (Japan) (Green Version)">
-		<description>[BIOS] Games Express CD Card (Japan) (Blue Version)</description>
-		<release name="[BIOS] Games Express CD Card (Japan) (Blue Version)" region="JPN"/>
-		<rom name="[BIOS] Games Express CD Card (Japan) (Blue Version).pce" size="32768" crc="51a12d90" md5="6d2cb14fc3e1f65ceb135633d1694122" sha1="014881a959e045e00f4db8f52955200865d40280"/>
-	</game>
-	<game name="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)">
-		<description>[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)</description>
-		<release name="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)" region="USA"/>
-		<rom name="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).pce" size="262144" crc="2b5b75fe" md5="0754f903b52e3b3342202bdafb13efa5" sha1="d02611d99921986147c753df14c7349b31d71950"/>
-	</game>
-	<game name="[BIOS] CD-ROM System (Japan) (v1.0)" cloneof="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)">
-		<description>[BIOS] CD-ROM System (Japan) (v1.0)</description>
-		<release name="[BIOS] CD-ROM System (Japan) (v1.0)" region="JPN"/>
-		<rom name="[BIOS] CD-ROM System (Japan) (v1.0).pce" size="262144" crc="3f9f95a4" md5="2b7ccb3d86baa18f6402c176f3065082" sha1="a39a66da7de6ba94ab84d04eef7afeec7d4ee66a"/>
-	</game>
-	<game name="[BIOS] CD-ROM System (Japan) (v2.0)" cloneof="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)">
-		<description>[BIOS] CD-ROM System (Japan) (v2.0)</description>
-		<release name="[BIOS] CD-ROM System (Japan) (v2.0)" region="JPN"/>
-		<rom name="[BIOS] CD-ROM System (Japan) (v2.0).pce" size="262144" crc="52520bc6" md5="3a456f0eccff039eb5ff045f56ec1c3b" sha1="f92ea593c8a935f58f8e1c3b2fc730951ec4fa71"/>
-	</game>
-	<game name="[BIOS] CD-ROM System (Japan) (v2.1)" cloneof="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)">
-		<description>[BIOS] CD-ROM System (Japan) (v2.1)</description>
-		<release name="[BIOS] CD-ROM System (Japan) (v2.1)" region="JPN"/>
-		<rom name="[BIOS] CD-ROM System (Japan) (v2.1).pce" size="262144" crc="283b74e0" md5="3cdd6614a918616bfc41c862e889dd79" sha1="88da02e2503f7c32810f5d93a34849d470742b6d"/>
-	</game>
-	<game name="[BIOS] Super CD-ROM System (Japan) (v3.0)" cloneof="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)">
-		<description>[BIOS] Super CD-ROM System (Japan) (v3.0)</description>
-		<release name="[BIOS] Super CD-ROM System (Japan) (v3.0)" region="JPN"/>
-		<rom name="[BIOS] Super CD-ROM System (Japan) (v3.0).pce" size="262144" crc="6d9a73ef" md5="38179df8f4ac870017db21ebcbf53114" sha1="79f5ff55dd10187c7fd7b8daab0b3ffbd1f56a2c"/>
-	</game>
-	<game name="[BIOS] TurboGrafx CD System Card (USA) (v2.0)" cloneof="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)">
-		<description>[BIOS] TurboGrafx CD System Card (USA) (v2.0)</description>
-		<release name="[BIOS] TurboGrafx CD System Card (USA) (v2.0)" region="USA"/>
-		<rom name="[BIOS] TurboGrafx CD System Card (USA) (v2.0).pce" size="262144" crc="ff2a5ec3" md5="94279f315e8b52904f65ab3108542afe" sha1="2bea3dac98f84b2f2f469fa77ea720b8770d598d"/>
-	</game>
 	<game name="1943 Kai (Japan)">
 		<description>1943 Kai (Japan)</description>
 		<release name="1943 Kai (Japan)" region="JPN"/>

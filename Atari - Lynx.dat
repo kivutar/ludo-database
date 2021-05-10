@@ -11,12 +11,6 @@
 		<author>BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Atari Lynx (USA, Europe)">
-		<description>[BIOS] Atari Lynx (USA, Europe)</description>
-		<release name="[BIOS] Atari Lynx (USA, Europe)" region="EUR"/>
-		<release name="[BIOS] Atari Lynx (USA, Europe)" region="USA"/>
-		<rom name="[BIOS] Atari Lynx (USA, Europe).lnx" size="512" crc="0d973c9d" md5="fcd403db69f54290b51035d82f835e7b" sha1="e4ed47fae31693e016b081c6bda48da5b70d7ccb"/>
-	</game>
 	<game name="A.P.B. (USA, Europe)">
 		<description>A.P.B. (USA, Europe)</description>
 		<release name="A.P.B. (USA, Europe)" region="EUR"/>

@@ -9,13 +9,6 @@
 		<author>alexian</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Nintendo Pokemon Mini (World)">
-		<description>[BIOS] Nintendo Pokemon Mini (World)</description>
-		<release name="[BIOS] Nintendo Pokemon Mini (World)" region="EUR"/>
-		<release name="[BIOS] Nintendo Pokemon Mini (World)" region="JPN"/>
-		<release name="[BIOS] Nintendo Pokemon Mini (World)" region="USA"/>
-		<rom name="[BIOS] Nintendo Pokemon Mini (World).min" size="4096" crc="aed3c14d" md5="1e4fb124a3a886865acb574f388c803d" sha1="daad4113713ed776fbd47727762bca81ba74915f"/>
-	</game>
 	<game name="Pichu Bros. Mini (Japan)">
 		<description>Pichu Bros. Mini (Japan)</description>
 		<release name="Pichu Bros. Mini (Japan)" region="JPN"/>

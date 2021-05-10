@@ -9,11 +9,6 @@
 		<author>alexian</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Othello Multivision (Japan)">
-		<description>[BIOS] Othello Multivision (Japan)</description>
-		<release name="[BIOS] Othello Multivision (Japan)" region="JPN"/>
-		<rom name="[BIOS] Othello Multivision (Japan).sg" size="16384" crc="c5a67b95" md5="cba9c69675bb921aa07050fd2a2dbecb" sha1="6d7c64dd60dee4a33061d3d3a7c2ed190d895cdb" status="verified"/>
-	</game>
 	<game name="007 James Bond (Japan) (Othello Multivision)">
 		<description>007 James Bond (Japan) (Othello Multivision)</description>
 		<release name="007 James Bond (Japan) (Othello Multivision)" region="JPN"/>

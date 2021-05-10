@@ -9,17 +9,6 @@
 		<author>BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Magnavox Odyssey2 (USA, Europe)">
-		<description>[BIOS] Magnavox Odyssey2 (USA, Europe)</description>
-		<release name="[BIOS] Magnavox Odyssey2 (USA, Europe)" region="EUR"/>
-		<release name="[BIOS] Magnavox Odyssey2 (USA, Europe)" region="USA"/>
-		<rom name="[BIOS] Magnavox Odyssey2 (USA, Europe).bin" size="1024" crc="8016a315" md5="562d5ebf9e030a40d6fabfc2f33139fd" sha1="b2e1955d957a475de2411770452eff4ea19f4cee"/>
-	</game>
-	<game name="[BIOS] Philips C52 (France)" cloneof="[BIOS] Magnavox Odyssey2 (USA, Europe)">
-		<description>[BIOS] Philips C52 (France)</description>
-		<release name="[BIOS] Philips C52 (France)" region="FRA"/>
-		<rom name="[BIOS] Philips C52 (France).bin" size="1024" crc="a318e8d6" md5="f1071cdb0b6b10dde94d3bc8a6146387" sha1="a6120aed50831c9c0d95dbdf707820f601d9452e"/>
-	</game>
 	<game name="4 in 1 Row (Europe)">
 		<description>4 in 1 Row (Europe)</description>
 		<release name="4 in 1 Row (Europe)" region="EUR"/>

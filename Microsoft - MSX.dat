@@ -9,11 +9,6 @@
 		<author>BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Kanji Rom - JIS 1st Class (Japan)">
-		<description>[BIOS] Kanji Rom - JIS 1st Class (Japan)</description>
-		<release name="[BIOS] Kanji Rom - JIS 1st Class (Japan)" region="JPN"/>
-		<rom name="[BIOS] Kanji Rom - JIS 1st Class (Japan).rom" size="131072" crc="3b8fdf44" md5="f35edf0808fdd1a81f86ea647e5b38ee" sha1="fc71561a64f73da0e0043d256f67fd18d7fc3a7f"/>
-	</game>
 	<game name="10-Yard Fight (Japan)">
 		<description>10-Yard Fight (Japan)</description>
 		<release name="10-Yard Fight (Japan)" region="JPN"/>

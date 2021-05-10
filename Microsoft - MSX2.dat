@@ -9,11 +9,6 @@
 		<author>alexian</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan)">
-		<description>[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan)</description>
-		<release name="[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan)" region="JPN"/>
-		<rom name="[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan).rom" size="262144" crc="17e58926" md5="cb30a978bd4bddf957c66d1d05273658" sha1="f4dba5ba267b5dd1a35eb74a6ec4fd4d5ca9a1b4"/>
-	</game>
 	<game name="1942 (Japan)">
 		<description>1942 (Japan)</description>
 		<release name="1942 (Japan)" region="JPN"/>

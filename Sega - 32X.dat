@@ -9,21 +9,6 @@
 		<author>alexian</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] 32X M68000 (USA)">
-		<description>[BIOS] 32X M68000 (USA)</description>
-		<release name="[BIOS] 32X M68000 (USA)" region="USA"/>
-		<rom name="[BIOS] 32X M68000 (USA).bin" size="256" crc="5c12eae8" md5="6a5433f6a132a2b683635819a6dcf085" sha1="dbebd76a448447cb6e524ac3cb0fd19fc065d944"/>
-	</game>
-	<game name="[BIOS] 32X SH-2 Master (USA)">
-		<description>[BIOS] 32X SH-2 Master (USA)</description>
-		<release name="[BIOS] 32X SH-2 Master (USA)" region="USA"/>
-		<rom name="[BIOS] 32X SH-2 Master (USA).bin" size="2048" crc="dd9c46b8" md5="f88354ec482be09aeccd76a97bb75868" sha1="1e5b0b2441a4979b6966d942b20cc76c413b8c5e"/>
-	</game>
-	<game name="[BIOS] 32X SH-2 Slave (USA)">
-		<description>[BIOS] 32X SH-2 Slave (USA)</description>
-		<release name="[BIOS] 32X SH-2 Slave (USA)" region="USA"/>
-		<rom name="[BIOS] 32X SH-2 Slave (USA).bin" size="1024" crc="bfda1fe5" md5="7f041b6a55cd7423a6c08a219335269e" sha1="4103668c1bbd66c5e24558e73d4f3f92061a109a"/>
-	</game>
 	<game name="32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)">
 		<description>32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)</description>
 		<release name="32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)" region="EUR"/>

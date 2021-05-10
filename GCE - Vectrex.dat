@@ -9,13 +9,6 @@
 		<author>BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] GCE Vectrex (World)">
-		<description>[BIOS] GCE Vectrex (World)</description>
-		<release name="[BIOS] GCE Vectrex (World)" region="EUR"/>
-		<release name="[BIOS] GCE Vectrex (World)" region="JPN"/>
-		<release name="[BIOS] GCE Vectrex (World)" region="USA"/>
-		<rom name="[BIOS] GCE Vectrex (World).bin" size="8192" crc="ba13fb57" md5="ab082fa8c8e632dd68589a8c7741388f" sha1="65d07426b520ddd3115d40f255511e0fd2e20ae7"/>
-	</game>
 	<game name="3D Crazy Coaster (USA)">
 		<description>3D Crazy Coaster (USA)</description>
 		<release name="3D Crazy Coaster (USA)" region="USA"/>

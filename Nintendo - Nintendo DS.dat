@@ -9,51 +9,6 @@
 		<author>kazumi213, Rifu, SonGoku</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] iQue DS Lite Firmware (China)">
-		<description>[BIOS] iQue DS Lite Firmware (China)</description>
-		<release name="[BIOS] iQue DS Lite Firmware (China)" region="CHN"/>
-		<rom name="[BIOS] iQue DS Lite Firmware (China).bin" size="524288" crc="96212a2e" md5="5de80a392afe67beeaa904d096e2e971" sha1="3889384913435b7947e8e401d3fe5b086033f7c3"/>
-	</game>
-	<game name="[BIOS] iQue DS Lite Firmware (China) (Alt)" cloneof="[BIOS] iQue DS Lite Firmware (China)">
-		<description>[BIOS] iQue DS Lite Firmware (China) (Alt)</description>
-		<rom name="[BIOS] iQue DS Lite Firmware (China) (Alt).bin" size="524288" crc="489994fe" md5="71b5840d41dfcd52a50d8ec5c37a8c7a" sha1="a9f8a8e9b357a73a4b3fb0eae9c5b4951e483e4d"/>
-	</game>
-	<game name="[BIOS] Nintendo DS Lite Firmware (Europe)" cloneof="[BIOS] iQue DS Lite Firmware (China)">
-		<description>[BIOS] Nintendo DS Lite Firmware (Europe)</description>
-		<release name="[BIOS] Nintendo DS Lite Firmware (Europe)" region="EUR"/>
-		<rom name="[BIOS] Nintendo DS Lite Firmware (Europe).bin" size="262144" crc="9d0e7d5f" md5="37cc17d8004667df7a360e50c0d4c6e6" sha1="e8cbf864be9a8d077ceccd2e7059b6d515fce672"/>
-	</game>
-	<game name="[BIOS] Nintendo DS ARM7TDMI (World)">
-		<description>[BIOS] Nintendo DS ARM7TDMI (World)</description>
-		<release name="[BIOS] Nintendo DS ARM7TDMI (World)" region="EUR"/>
-		<release name="[BIOS] Nintendo DS ARM7TDMI (World)" region="JPN"/>
-		<release name="[BIOS] Nintendo DS ARM7TDMI (World)" region="USA"/>
-		<rom name="[BIOS] Nintendo DS ARM7TDMI (World).nds" size="16384" crc="1280f0d5" md5="df692a80a5b1bc90728bc3dfc76cd948" sha1="24f67bdea115a2c847c8813a262502ee1607b7df" status="verified"/>
-	</game>
-	<game name="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)">
-		<description>[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)</description>
-		<release name="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)" region="EUR"/>
-		<release name="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)" region="JPN"/>
-		<release name="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)" region="USA"/>
-		<rom name="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World).nds" size="16384" crc="a6473709" md5="1c0d67db9e1208b95a1506b1688a0ad6" sha1="c11531d5261006810cdc954bd4bec0afe3187b35" status="verified"/>
-	</game>
-	<game name="[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China)" cloneof="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)">
-		<description>[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China)</description>
-		<release name="[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China)" region="CHN"/>
-		<rom name="[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China).nds" size="16384" crc="fb444ce8" md5="c0af2e8528f6e8d99be1d53763ec9ed3" sha1="7767ed89df9a36e2829a27fc8dc536b3cf277fb8"/>
-	</game>
-	<game name="[BIOS] Nintendo DS ARM946E-S (World)">
-		<description>[BIOS] Nintendo DS ARM946E-S (World)</description>
-		<release name="[BIOS] Nintendo DS ARM946E-S (World)" region="EUR"/>
-		<release name="[BIOS] Nintendo DS ARM946E-S (World)" region="JPN"/>
-		<release name="[BIOS] Nintendo DS ARM946E-S (World)" region="USA"/>
-		<rom name="[BIOS] Nintendo DS ARM946E-S (World).nds" size="4096" crc="2ab23573" md5="a392174eb3e572fed6447e956bde4b25" sha1="bfaac75f101c135e32e2aaf541de6b1be4c8c62d" status="verified"/>
-	</game>
-	<game name="[BIOS] iQue DS Lite ARM946E-S (China)" cloneof="[BIOS] Nintendo DS ARM946E-S (World)">
-		<description>[BIOS] iQue DS Lite ARM946E-S (China)</description>
-		<release name="[BIOS] iQue DS Lite ARM946E-S (China)" region="CHN"/>
-		<rom name="[BIOS] iQue DS Lite ARM946E-S (China).nds" size="4096" crc="7b43cded" md5="08f1dc42ebe85f129b06415f5e2ccbc8" sha1="3b2b85a457e1a332221486f3f2bdc8a3c1900e54"/>
-	</game>
 	<game name="'Chou' Kowai Hanashi DS - Ao no Shou (Japan)">
 		<description>'Chou' Kowai Hanashi DS - Ao no Shou (Japan)</description>
 		<release name="'Chou' Kowai Hanashi DS - Ao no Shou (Japan)" region="JPN"/>
