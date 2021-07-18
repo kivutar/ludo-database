@@ -33,22 +33,6 @@
 		<release name="Bank Panic (Taiwan)" region="TAI"/>
 		<rom name="Bank Panic (Taiwan).sg" size="32768" crc="bd43fde4" md5="11a5694d472766fed9c6eb1e09a851bf" sha1="18f7ab9fe95aeacceab36297cdf9374dc7e3233f" status="verified"/>
 	</game>
-	<game name="BASIC Level II (Japan) (SC-3000) (Program)">
-		<description>BASIC Level II (Japan) (SC-3000) (Program)</description>
-		<release name="BASIC Level II (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="BASIC Level II (Japan) (SC-3000) (Program).sc" size="32768" crc="f691f9c7" md5="28dd0578a6e3e3e64f8e4168b3a62e7e" sha1="1fa9f4ec347681d7909415b6d06179e44b0fcd5e" status="verified"/>
-	</game>
-	<game name="BASIC Level III (Europe, Australia) (SC-3000) (Program)">
-		<description>BASIC Level III (Europe, Australia) (SC-3000) (Program)</description>
-		<release name="BASIC Level III (Europe, Australia) (SC-3000) (Program)" region="AUS"/>
-		<release name="BASIC Level III (Europe, Australia) (SC-3000) (Program)" region="EUR"/>
-		<rom name="BASIC Level III (Europe, Australia) (SC-3000) (Program).sc" size="32768" crc="5d9f11ca" md5="fda6619ba96bf00b849192f5e7460622" sha1="a43aef367857a681decea52377c2e7a992c2ac68" status="verified"/>
-	</game>
-	<game name="BASIC Level III (Japan) (SC-3000) (Program)" cloneof="BASIC Level III (Europe, Australia) (SC-3000) (Program)">
-		<description>BASIC Level III (Japan) (SC-3000) (Program)</description>
-		<release name="BASIC Level III (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="BASIC Level III (Japan) (SC-3000) (Program).sc" size="32768" crc="a46e3c73" md5="a992690a81e1e8a20388aed9c31cf3fc" sha1="b1a8585a9afff962e8fd0e79b3305199da4e4562" status="verified"/>
-	</game>
 	<game name="Black Onyx, The (Japan)">
 		<description>Black Onyx, The (Japan)</description>
 		<release name="Black Onyx, The (Japan)" region="JPN"/>
@@ -274,48 +258,6 @@
 		<release name="Choplifter (Taiwan) (English Logo)" region="TAI"/>
 		<rom name="Choplifter (Taiwan) (English Logo).sg" size="32768" crc="7c603987" md5="dac1f7d97039682793378fdba7ee2d8e" sha1="61d1afe62b2be0da26d8a185828387063dd4b06e" status="verified"/>
 	</game>
-	<game name="Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program)</description>
-		<release name="Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc" size="8192" crc="345c8bc8" md5="9c83442fcefbef11bad9d6e35363be0c" sha1="eaab51616a87fd29f0383a8b3ea365971bceb56b" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)</description>
-		<release name="Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc" size="8192" crc="d4c473b2" md5="800431864400c33ac40a1f1b88c1afb9" sha1="efe8a2852344f094806039019314ebe9c49e53f9" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)</description>
-		<release name="Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc" size="16384" crc="9bafd9e9" md5="772e1bace3a92c45aa266ba407b3a0b3" sha1="0081205a3e2fa9322a348ab8a096c282bbbbcc21" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program)" cloneof="Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program)</description>
-		<rom name="Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program).sc" size="40960" crc="975106b6" md5="b8c0c4c3c05699374d7707688e0fdfb1" sha1="ebc8544bf8a36840a639bb7a2698f984429f4762" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)</description>
-		<release name="Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc" size="16384" crc="581dce41" md5="1041cb5d0498a469ff7355888e1fa91d" sha1="058f3efd1ae2a0dde4ee2b327a2faea663354411" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)" cloneof="Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)</description>
-		<rom name="Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).sc" size="40960" crc="3657b285" md5="b23a6d9bafe9b2883119a943778a0503" sha1="312ce1b510a90a96bca63d028e96ed732ab6a043" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)</description>
-		<release name="Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc" size="16384" crc="6ccb297a" md5="ef11524a58bb18415856d625a0ebeb9a" sha1="63cf03f62516d4228a023fff496f2ffa6581d3dc" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)</description>
-		<release name="Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc" size="16384" crc="8507216b" md5="7b5c610ed285ef4e1c62521df9533806" sha1="931b404c809b39a68cdc4b74ad905a008d46143d" status="verified"/>
-	</game>
-	<game name="Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)" cloneof="Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)">
-		<description>Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)</description>
-		<rom name="Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).sc" size="40960" crc="4f599483" md5="477da1d7693a05b7a62100663cced631" sha1="09515ce5c8b598020f4c6b97540a7020abb6f596" status="verified"/>
-	</game>
 	<game name="Circus Charlie (Taiwan)">
 		<description>Circus Charlie (Taiwan)</description>
 		<release name="Circus Charlie (Taiwan)" region="TAI"/>
@@ -325,10 +267,6 @@
 		<description>Circus Charlie (Korea) (Unl)</description>
 		<release name="Circus Charlie (Korea) (Unl)" region="KOR"/>
 		<rom name="Circus Charlie (Korea) (Unl).sg" size="32768" crc="7f7f009d" md5="05940e2d44f81e163dab4a5a6f29645e" sha1="34899ad454a56826d53028bef8fed7f5d2c6a78a" status="verified"/>
-	</game>
-	<game name="Complete Arcade Pack Collection, The (New Zealand) (SF-7000)">
-		<description>Complete Arcade Pack Collection, The (New Zealand) (SF-7000)</description>
-		<rom name="Complete Arcade Pack Collection, The (New Zealand) (SF-7000).sf" size="163840" crc="ad19c0a0" md5="94bc20eabd0674e4f7b30762359c66c1" sha1="e12dd5f93df9f536ce4e6f7c445467358c31145a" status="verified"/>
 	</game>
 	<game name="Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)">
 		<description>Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)</description>
@@ -359,19 +297,6 @@
 		<description>C_So! (Taiwan)</description>
 		<release name="C_So! (Taiwan)" region="TAI"/>
 		<rom name="C_So! (Taiwan).sg" size="32768" crc="82c4e3e5" md5="25ac91afc22f7a09ff4543af653cd281" sha1="7101c42289815d7e0d04b523f8f0e833f2f089b3" status="verified"/>
-	</game>
-	<game name="Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)">
-		<description>Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)</description>
-		<release name="Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)" region="JPN"/>
-		<rom name="Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).sf" size="163840" crc="7f51ef65" md5="8de8d82ed983f76a93a478cc7b15104e" sha1="037c3d09b3d9e898a79514c3885bf6e42d28dd4e"/>
-	</game>
-	<game name="Disk BASIC (Japan) (SF-7000) (Program)" cloneof="Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)">
-		<description>Disk BASIC (Japan) (SF-7000) (Program)</description>
-		<rom name="Disk BASIC (Japan) (SF-7000) (Program).sf" size="163840" crc="50a2a040" md5="ef06fb2c00e669ff959db4965a06f8b4" sha1="1e3c0651757d304ba1184e43f1cb1ce1ca3be22e" status="verified"/>
-	</game>
-	<game name="Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program)" cloneof="Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)">
-		<description>Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program)</description>
-		<rom name="Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program).sf" size="163840" crc="ffdbcd97" md5="b8791c6979086cf01a808008b4df0b08" sha1="c7c55da3c2f0fa90895f8b2802bad2606ff16578" status="verified"/>
 	</game>
 	<game name="Doki Doki Penguin Land (Japan)">
 		<description>Doki Doki Penguin Land (Japan)</description>
@@ -416,11 +341,6 @@
 		<description>Drol (Korea) (Unl)</description>
 		<release name="Drol (Korea) (Unl)" region="KOR"/>
 		<rom name="Drol (Korea) (Unl).sg" size="32768" crc="1d7c53bb" md5="0facbc1668dedbcb579d08df4e232699" sha1="37baf9aac77436b4939c80d6a575e23a7d5cd76d" status="verified"/>
-	</game>
-	<game name="Electronic Salesman (Japan) (Proto) (SC-3000) (Program)">
-		<description>Electronic Salesman (Japan) (Proto) (SC-3000) (Program)</description>
-		<release name="Electronic Salesman (Japan) (Proto) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Electronic Salesman (Japan) (Proto) (SC-3000) (Program).sc" size="32768" crc="ea7fc2d5" md5="11e642419b3e345db99d2fac07467386" sha1="edb9c6eb389df4165e81658a21c0a8b18a0457d4" status="verified"/>
 	</game>
 	<game name="Elevator Action (Japan)">
 		<description>Elevator Action (Japan)</description>
@@ -542,11 +462,6 @@
 		<release name="Hang-On II (Taiwan) (English Logo)" region="TAI"/>
 		<rom name="Hang-On II (Taiwan) (English Logo).sg" size="32768" crc="cabd451b" md5="ebe4433a6250abd81be69f15b41c566c" sha1="1e25fc699baa715710f3f6375dbcb107bfc044f5" status="verified"/>
 	</game>
-	<game name="Home BASIC (Japan) (SC-3000) (Program)">
-		<description>Home BASIC (Japan) (SC-3000) (Program)</description>
-		<release name="Home BASIC (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Home BASIC (Japan) (SC-3000) (Program).sc" size="32768" crc="78a37cbc" md5="cb724ebeaec9619281a906671c98a952" sha1="f1e1e7e9687cf4f9f498779a44134c2d70bb8d4b" status="verified"/>
-	</game>
 	<game name="Home Mahjong (Japan) (Rev 1)">
 		<description>Home Mahjong (Japan) (Rev 1)</description>
 		<release name="Home Mahjong (Japan) (Rev 1)" region="JPN"/>
@@ -591,16 +506,6 @@
 		<release name="Hyper Sports 2 (Taiwan)" region="TAI"/>
 		<rom name="Hyper Sports 2 (Taiwan).sg" size="32768" crc="b0234e12" md5="e329ee584187d4b156e26faf3ef1a960" sha1="33072bafc25b83577886e91a75d0b6439a80374c" status="verified"/>
 	</game>
-	<game name="Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program)">
-		<description>Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program)</description>
-		<release name="Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).sc" size="8192" crc="f9c81fe1" md5="4eac394fb2f19fecca410c6136a6ef00" sha1="6b35016742db0a06947c679f41b8130c28d2de7d" status="verified"/>
-	</game>
-	<game name="Kamikaze (France) (SF-7000)">
-		<description>Kamikaze (France) (SF-7000)</description>
-		<release name="Kamikaze (France) (SF-7000)" region="FRA"/>
-		<rom name="Kamikaze (France) (SF-7000).sf" size="163840" crc="7654e077" md5="91b5846daac5dffc5f1b72c0378e98d7" sha1="8995356ea9dcca2fbbbf33dc730e391b29b138a4" status="verified"/>
-	</game>
 	<game name="King's Valley (Taiwan)">
 		<description>King's Valley (Taiwan)</description>
 		<release name="King's Valley (Taiwan)" region="TAI"/>
@@ -615,11 +520,6 @@
 		<description>Legend of Kage, The (Taiwan)</description>
 		<release name="Legend of Kage, The (Taiwan)" region="TAI"/>
 		<rom name="Legend of Kage, The (Taiwan).sg" size="49152" crc="2e7166d5" md5="cfc8e61f51388609421ffe87539cad44" sha1="902dbb122bf0efc76604a876c3fae51c074bdc6a" status="verified"/>
-	</game>
-	<game name="LinkWord (Japan) (Proto) (SC3000) (Program)">
-		<description>LinkWord (Japan) (Proto) (SC3000) (Program)</description>
-		<release name="LinkWord (Japan) (Proto) (SC3000) (Program)" region="JPN"/>
-		<rom name="LinkWord (Japan) (Proto) (SC3000) (Program).sg" size="32768" crc="d5e919c1" md5="5e38ab4ebb38195ba852ba7ed12750a4" sha1="c81c783fb806b3626ece75bf4456038a8a9e7075" status="verified"/>
 	</game>
 	<game name="Lode Runner (Japan, Europe, Australia)">
 		<description>Lode Runner (Japan, Europe, Australia)</description>
@@ -682,17 +582,6 @@
 		<release name="Monaco GP (Taiwan) (Rev 1)" region="TAI"/>
 		<rom name="Monaco GP (Taiwan) (Rev 1).sg" size="32768" crc="01cda679" md5="d7ab64f92c3d146565e4f9d771fec7c9" sha1="464ec3c9acfefd0ad244a43033985e88798905f9" status="verified"/>
 	</game>
-	<game name="Music (Europe, Australia, New Zealand) (SC-3000) (Program)">
-		<description>Music (Europe, Australia, New Zealand) (SC-3000) (Program)</description>
-		<release name="Music (Europe, Australia, New Zealand) (SC-3000) (Program)" region="AUS"/>
-		<release name="Music (Europe, Australia, New Zealand) (SC-3000) (Program)" region="EUR"/>
-		<rom name="Music (Europe, Australia, New Zealand) (SC-3000) (Program).sc" size="32768" crc="622010e1" md5="a6114c163b4fd8b954ab6afc99466ac0" sha1="61f40e4b7576d4d55322f3d6eef2038aa784336e" status="verified"/>
-	</game>
-	<game name="Music (Japan) (SC-3000) (Program)" cloneof="Music (Europe, Australia, New Zealand) (SC-3000) (Program)">
-		<description>Music (Japan) (SC-3000) (Program)</description>
-		<release name="Music (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Music (Japan) (SC-3000) (Program).sc" size="32768" crc="2ec28526" md5="832b5ec426da0d70c0bcd58a79ed8ae2" sha1="a2137e818242e8b361d5d5677797034c55fb1a2d" status="verified"/>
-	</game>
 	<game name="N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)">
 		<description>N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)</description>
 		<release name="N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)" region="AUS"/>
@@ -708,11 +597,6 @@
 	<game name="N-Sub (Japan) (Alt 1)" cloneof="N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)">
 		<description>N-Sub (Japan) (Alt 1)</description>
 		<rom name="N-Sub (Japan) (Alt 1).sg" size="40960" crc="b377d6e1" md5="cfced1ba39adee6a75dc830ed9c12f73" sha1="aa3eae849553a5a176762466b101f312b8b968e4" status="verified"/>
-	</game>
-	<game name="Nihonshi Nenpyou (Japan) (SC-3000) (Program)">
-		<description>Nihonshi Nenpyou (Japan) (SC-3000) (Program)</description>
-		<release name="Nihonshi Nenpyou (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Nihonshi Nenpyou (Japan) (SC-3000) (Program).sc" size="16384" crc="129d6359" md5="1d17adcdeef7e827b7493631719adf4e" sha1="9a9363004d77037a0bbc9a8bcae1bb05138ffc36" status="verified"/>
 	</game>
 	<game name="Ninja Princess (Japan, Australia)">
 		<description>Ninja Princess (Japan, Australia)</description>
@@ -828,11 +712,6 @@
 		<release name="Pop Flamer (Taiwan)" region="TAI"/>
 		<rom name="Pop Flamer (Taiwan).sg" size="16384" crc="ab1da8a6" md5="e5082018ff7cbac17db003f159ab2dfb" sha1="25d5cdc7fdd5cba97abbd9d32f61a39aacceb2c0" status="verified"/>
 	</game>
-	<game name="Poseidon Wars + Space Panic + Rambo (France) (SF-7000)">
-		<description>Poseidon Wars + Space Panic + Rambo (France) (SF-7000)</description>
-		<release name="Poseidon Wars + Space Panic + Rambo (France) (SF-7000)" region="FRA"/>
-		<rom name="Poseidon Wars + Space Panic + Rambo (France) (SF-7000).sf" size="163840" crc="5ca7b5c4" md5="180fee8dc10c0949d86ae2eec20751f0" sha1="909d6335034cf9e241d7fc4c8074a280b5c4112f" status="verified"/>
-	</game>
 	<game name="Q-bert (Japan) (Othello Multivision)">
 		<description>Q-bert (Japan) (Othello Multivision)</description>
 		<release name="Q-bert (Japan) (Othello Multivision)" region="JPN"/>
@@ -924,11 +803,6 @@
 		<description>Sega Flipper (Japan) (Alt 1)</description>
 		<rom name="Sega Flipper (Japan) (Alt 1).sg" size="40960" crc="fd76ad99" md5="49c7c14879a437e60730b62a7550cdf6" sha1="d713dcbd79a3db8f1ef2cfb27da31a286fff16d1" status="verified"/>
 	</game>
-	<game name="Sega Logo (Japan) (SF-7000) (Program)">
-		<description>Sega Logo (Japan) (SF-7000) (Program)</description>
-		<release name="Sega Logo (Japan) (SF-7000) (Program)" region="JPN"/>
-		<rom name="Sega Logo (Japan) (SF-7000) (Program).sf" size="163840" crc="a7b1da17" md5="69f373bfc4ba492a9c12979d62fd2371" sha1="1a54fbf5bd1442a96e7806249a6812ea2006e092" status="verified"/>
-	</game>
 	<game name="Sega-Galaga (Japan, Australia)">
 		<description>Sega-Galaga (Japan, Australia)</description>
 		<release name="Sega-Galaga (Japan, Australia)" region="AUS"/>
@@ -943,11 +817,6 @@
 	<game name="Sega-Galaga (Japan)" cloneof="Sega-Galaga (Japan, Australia)">
 		<description>Sega-Galaga (Japan)</description>
 		<rom name="Sega-Galaga (Japan).sg" size="40960" crc="31283003" md5="7f7e1d564448fdce96d239ad9ebf37d6" sha1="9b093878f92ce8b918beaa44dcc8a41282f9f267" status="verified"/>
-	</game>
-	<game name="Sekaishi Nenpyou (Japan) (SC-3000) (Program)">
-		<description>Sekaishi Nenpyou (Japan) (SC-3000) (Program)</description>
-		<release name="Sekaishi Nenpyou (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Sekaishi Nenpyou (Japan) (SC-3000) (Program).sc" size="16384" crc="3274ee48" md5="e2ac39e87f9a7ddb0be8cb6f6d2c0737" sha1="388fdff0cf2ad276e07a419239710632c376e1db" status="verified"/>
 	</game>
 	<game name="Serizawa Hachidan no Tsumeshougi (Japan)">
 		<description>Serizawa Hachidan no Tsumeshougi (Japan)</description>
@@ -1095,40 +964,6 @@
 		<release name="Tank Battalion (Taiwan)" region="TAI"/>
 		<rom name="Tank Battalion (Taiwan).sg" size="32768" crc="5cbd1163" md5="dada9d76f7743089811dcc8ec1543076" sha1="0ca3b740b28266a2a606127ed8967c684b67cb44" status="verified"/>
 	</game>
-	<game name="Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)">
-		<description>Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)</description>
-		<release name="Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).sc" size="16384" crc="5fde25bb" md5="c07d87577918eee0327bf67538b6f5cc" sha1="5500a59f4474833687e7d2d7bbd09cf0fb925684" status="verified"/>
-	</game>
-	<game name="Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)">
-		<description>Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)</description>
-		<release name="Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).sc" size="16384" crc="573e04dd" md5="a3e3d2b2f9250875f2d30a4b2c7197ae" sha1="59c7c6d0e373f78961a0e501a533ea271b15abdb" status="verified"/>
-	</game>
-	<game name="Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program)" cloneof="Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)">
-		<description>Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program)</description>
-		<rom name="Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program).sc" size="40960" crc="7c400e3b" md5="793bc3ca1b2cb0997cbe3457eafb15f7" sha1="8a693531a3cfd0cef01d6b2ac900a2c95ff4f75e" status="verified"/>
-	</game>
-	<game name="Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)">
-		<description>Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)</description>
-		<release name="Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).sc" size="16384" crc="6a96978d" md5="64280bd1e75ef922fe368dba2fe7fbcf" sha1="751d82119e19d46a20165c8debbfe95b3241a701" status="verified"/>
-	</game>
-	<game name="Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program)">
-		<description>Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program)</description>
-		<release name="Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).sc" size="32768" crc="419d75d5" md5="b4c2518922f99c4fd6a5fa89cb24385c" sha1="3d99878e901e0095df7fc6ae2ef0915c9b00dcfb" status="verified"/>
-	</game>
-	<game name="Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program)">
-		<description>Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program)</description>
-		<release name="Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).sc" size="32768" crc="d0d18e70" md5="f250e5b2ddd3928211174f9992e749c5" sha1="c3428ec915a172992a7c643da662eb1469cd37d4" status="verified"/>
-	</game>
-	<game name="Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program)">
-		<description>Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program)</description>
-		<release name="Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).sc" size="32768" crc="8b5e6e1b" md5="b8fc10dd1cf58e342f045128c2614c3c" sha1="103fcb058b6f9671e5ca969a5cbd4bd171caddc3" status="verified"/>
-	</game>
 	<game name="Terebi Oekaki (Japan, Taiwan) (Program)">
 		<description>Terebi Oekaki (Japan, Taiwan) (Program)</description>
 		<release name="Terebi Oekaki (Japan, Taiwan) (Program)" region="JPN"/>
@@ -1139,11 +974,6 @@
 		<description>TwinBee (Taiwan)</description>
 		<release name="TwinBee (Taiwan)" region="TAI"/>
 		<rom name="TwinBee (Taiwan).sg" size="49152" crc="c550b4f0" md5="8c2c0d7e8415ae7b0c577cf947e89e78" sha1="a8c30043c145e63f79a3265dde167529f0e08d49" status="verified"/>
-	</game>
-	<game name="Uranai Angel Cutie (Japan) (SC-3000) (Program)">
-		<description>Uranai Angel Cutie (Japan) (SC-3000) (Program)</description>
-		<release name="Uranai Angel Cutie (Japan) (SC-3000) (Program)" region="JPN"/>
-		<rom name="Uranai Angel Cutie (Japan) (SC-3000) (Program).sc" size="32768" crc="ae4f92cf" md5="6dbcbfcd15bd206aca31dd2557f4e44d" sha1="90e32471b68cb60449b30e5d5a19d3a88f9829d3" status="verified"/>
 	</game>
 	<game name="Wonder Boy (Japan) (Rev 1)">
 		<description>Wonder Boy (Japan) (Rev 1)</description>
